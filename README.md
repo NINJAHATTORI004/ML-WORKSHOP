@@ -88,15 +88,7 @@ Insights:
 - **Cluster Analysis**: Provides insights into student demographics and performance trends.
 - **Applications**: Tailoring academic support for each group, identifying high-risk students.
 
-## New Sections
 
-### Section Title
-
-Overview: [Provide an overview of the new section]
-
-Implementation: [Describe the implementation details]
-
-Insights: [Share any insights gained from the new work]
 
 ## Repository Link
 
@@ -113,11 +105,7 @@ AI ML training stuff
 - [Readme](README.md)
 - License: MIT license
 
-## Activity
 
-- Stars: 0 stars
-- Watchers: 1 watching
-- Forks: 0 forks
 
 ## License
 
